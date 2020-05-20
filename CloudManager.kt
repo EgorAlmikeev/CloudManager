@@ -1,4 +1,4 @@
-package lostnfound.university.herzen.lostnfound.managers
+package your.package.here
 
 import android.content.Context
 import android.os.AsyncTask
